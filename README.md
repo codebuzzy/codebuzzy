@@ -7,7 +7,7 @@
 
 * ✨ UI / UX Enthusiast
 
-* 📖 To be a perfectionist in yoru work - Learn Apple Guidelines, and Documentations and be patient with the process
+* 📖 To be a perfectionist in your work - Learn Apple Guidelines, and Documentation and be patient with the process
 
 * 💻 Learn - Code - Earn
 
