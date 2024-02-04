@@ -1,16 +1,16 @@
-### Hi there 👋
+**Hi there** 👋🏻
 
-<!--
-**codebuzzy/codebuzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm an extremely passionate iOS Developer
 
-Here are some ideas to get you started:
+## About Me 😁
+* 📱 iOS/web Developer / Freelancer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ✨ UI / UX Enthusiast
+
+* 📖 To be a perfectionist in yoru work - Learn Apple Guidelines, and Documentations and be patient with the process
+
+* 💻 Learn - Code - Earn
+
+* ♥️ Love video gaming
+
+* ✍🏻 Checkout my Instagram page for coding tips for basics (https://www.instagram.com/codebuzzyofficial/)
