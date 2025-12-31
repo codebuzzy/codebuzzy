@@ -1,10 +1,10 @@
 **Hi there** 👋🏻
 
-# I'm an extremely passionate iOS Developer
+# iOS Developer tranisioning into AI Engineer Role
 
 ## About Me 😁
-* 📱 iOS/web Developer / Freelancer
-
+* 📱 iOS/ python / Freelancer
+  
 * ✨ UI / UX Enthusiast
 
 * 📖 To be a perfectionist in your work - Learn Apple Guidelines, and Documentation and be patient with the process
